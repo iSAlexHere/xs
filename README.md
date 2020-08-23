@@ -1,4 +1,8 @@
-❤️ Hobbies: Programming, Reverse Engineering and Infosec.<br>
+## Vazity
+
+<p align="center"><img src="https://cdn.discordapp.com/avatars/709852709477548082/93a382e53ea4fbffa9f17dc74da434a1.png" alt="Avatar" style="border-radius: 75%;"><br>
+ 
+❤️ Hobbies: Programming, Reverse Engineering and InfoSec.<br>
 📦 Languages: Python and C#<br>
 📔 Learning: PHP<br>
 ✉️ Contact: Website: Soon Discord: <a href="https://discord.com/users/709852709477548082">Vazity#8194</a>
