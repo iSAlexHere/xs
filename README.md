@@ -5,5 +5,5 @@
 📔 Learning: PHP<br>
 ✉️ Contact: <a href="https://vazity.xyz/">Vazity.xyz</a>
 
-<img align="Right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazity1337&layout=compact&hide_border=true" />
-<img align="Left" alt="Vazity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vazity1337&show_icons=true&hide_border=true" />
+<img align="Right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazity1337&layout=compact&hide_border=true&theme=dark" />
+<img align="Left" alt="Vazity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vazity1337&show_icons=true&hide_border=true&theme=dark&theme=dark" />
