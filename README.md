@@ -1,8 +1,5 @@
 ## Vazity
   
-Hobbies: Programming and Reverse Engineering.<br>
-Languages: Python and C#<br>
-Learning: PHP<br>
 Contact: <a href="https://vazity.xyz/">Vazity.xyz</a>
 
 <img align="Right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazity1337&layout=compact&hide_border=true&theme=dark" /><br>
